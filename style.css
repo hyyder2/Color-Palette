@@ -8,26 +8,26 @@
 
 h1{
     color: white;
-    font-size: medium;
+    
     text-align: center;
 }
 
 div{
-    height: 150px;
-    width: 140px;
+    height: 550px;
+    width: 540px;
     display: flex;
-    font-size: 2px;
+    font-size: 10px;
     color: white;
     justify-content: center;
     align-items: end;
-   padding-bottom: 10px;
+   padding-bottom: 20px;
    
     
     
 }
 .main{
     margin: auto;
-    margin-top: 15px ;
+    margin-top: 30px ;
 }
         
         
